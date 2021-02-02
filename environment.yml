@@ -1,0 +1,11 @@
+name: yolocalization
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.3.2
+  - numpy=1.19.2
+  - python=3.6.9
+  - scipy=1.5.2=py36h0b6359f_0
+  - pip:
+    - catkin-pkg==0.4.23
+    - rospkg==1.2.9
